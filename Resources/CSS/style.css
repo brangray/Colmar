@@ -162,15 +162,15 @@ nav.mobile {
   height: auto;
   padding-left: 20px;
   margin-right: 60px;
-  margin-top: 6rem;
+  margin-top: 4rem;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
 }
 
 .tagline h4 {
-  margin-top: 32px;
-  margin-bottom: 32px;
+  margin-top: 12px;
+  margin-bottom: 24px;
 }
 
 .tagline a {
