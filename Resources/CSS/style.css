@@ -250,10 +250,15 @@ nav.mobile {
 .content {
   padding: 16px 1px 16px 0px;
   width: 100%;
+  }
+
+.content h6 {
+  margin-top: 4px;
+  margin-bottom: 0px;
 }
 
 .content p {
-  padding-top: 8px;
+  padding-top: .5rem;
 }
 
 .content a {
@@ -261,7 +266,7 @@ nav.mobile {
   text-decoration: none;
   font-size: 14px;
   display: block;
-  padding-top: .9rem;
+  padding-top: .5rem;
 }
 
 .content a:hover {
@@ -355,6 +360,7 @@ nav.mobile {
     margin-top: 16px;
   }
 }
+
 /* Course Section */
 .learning {
   background-color: #F5F5F5;
