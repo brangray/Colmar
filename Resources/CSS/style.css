@@ -362,7 +362,7 @@ nav.mobile {
 }
 
 /* Course Section */
-.learning {
+.classes {
   background-color: #F5F5F5;
   padding-bottom: 32px;
   display: flex;
@@ -372,9 +372,9 @@ nav.mobile {
 .headline {
   width: 100%;
   text-align: center;
-  margin: auto;
   padding-top:32px;
   padding-bottom:32px;
+  margin-bottom: .1rem;
 }
 
 .courses-grid {
@@ -384,7 +384,7 @@ nav.mobile {
   flex-wrap: wrap;
   flex-direction: row;
   width: 80%;
-  margin: 0 auto;
+  margin: 0px auto;
 }
 
 .courses-list {
@@ -429,7 +429,7 @@ nav.mobile {
     background-color: white;
   }
 
-  .learning .container {
+  .classes .container {
     margin: 0 auto;
     width: 100%;
   }
@@ -471,7 +471,7 @@ nav.mobile {
   margin-top: 0px;
     }
 
-  .headline h2 {
+  .thesis h2 {
     margin-bottom: 0px;
   }
 
