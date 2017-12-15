@@ -240,12 +240,12 @@ nav.mobile {
 }
 
 .left-section h2 {
-  padding-top: 16px;
+  padding-top: 14px;
 }
 
 .left-section p {
-  padding: 16px 24px 16px 0px;
-}
+  padding: 12px 24px 16px 0px;
+  }
 
 .content {
   padding: 16px 1px 16px 0px;
@@ -373,8 +373,8 @@ nav.mobile {
   width: 100%;
   text-align: center;
   margin: auto;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top:32px;
+  padding-bottom:32px;
 }
 
 .courses-grid {
@@ -404,14 +404,17 @@ nav.mobile {
 
 .course h6 {
   padding-bottom: .5rem;
+  margin-top: 0px;
+  margin-bottom: .1rem;
+
 }
 
 .course p {
-  padding-top: .55rem;
-}
+  padding-top: .1rem;
+  }
 
 .course-content {
-  padding: 16px 16px 24px 16px;
+  padding: 8px 16px 8px 16px;
 }
 
 .course-content span {
